@@ -34,6 +34,4 @@ def cesar_cipher(user_input):
             final_output.append(letters[y])
     result = "".join(final_output)
     return result
-
-print(cesar_cipher('5b14a'))       
-    
+ 
